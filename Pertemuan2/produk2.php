@@ -1,4 +1,12 @@
 <?php
+/*
+Tengku Muhammad Rafi
+193040091
+https://github.com/TengkuRafi/prakweb2021_oophp_193040091
+Pertemuan2
+Mengerjakan dan Mempelajari Construktor
+22 September 2021
+*/
 
 class Produk{
     public $judul = "judul",
