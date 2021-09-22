@@ -22,3 +22,5 @@ Mengerjakan dan Mempelajari Class & Object
    
    var_dump($produk1);
    var_dump($produk2);
+
+   ?>
