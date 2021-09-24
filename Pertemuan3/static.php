@@ -5,7 +5,7 @@ Tengku Muhammad Rafi
 193040091
 https://github.com/TengkuRafi/prakweb2021_oophp_193040091
 Pertemuan3
-Mengerjakan dan Mempelajari  setter & getter
+Mengerjakan dan Mempelajari  Static Keyword
 24 September 2021
 */
 
