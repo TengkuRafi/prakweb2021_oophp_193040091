@@ -5,7 +5,7 @@ Tengku Muhammad Rafi
 https://github.com/TengkuRafi/prakweb2021_oophp_193040091
 Pertemuan2
 Mengerjakan dan Mempelajari Class & Object
-21 September 2021
+22 September 2021
 */
 
 class Coba{
